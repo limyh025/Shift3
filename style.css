@@ -1,0 +1,32 @@
+.item {
+    color: blue;
+}
+
+.top {
+    background: red;
+    height: 50px;
+}
+
+.mid {
+    color: white;
+    background: blue;
+    height: 50px;
+}
+
+.bot {
+    background: yellow;
+    height: 50px;
+}
+
+.left {
+    background: red;
+}
+
+.cent {
+    color: white;
+    background: blue;
+}
+
+.right {
+    background: yellow;
+}
